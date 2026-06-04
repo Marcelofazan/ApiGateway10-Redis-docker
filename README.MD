@@ -60,7 +60,7 @@ dotnet run
 VSCode Terminal [6] - Fechar Container
 ```bash
 cd Sistema
-docker compose down 
+docker compose down --volumes --remove-orphans --timeout 0
 ```
 
 - Caso haja falha de compilação por Portas ocupadas, rastrear portas no PowerShell e fecha-las.
