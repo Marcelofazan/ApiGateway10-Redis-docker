@@ -85,7 +85,7 @@ netstat -ano | findstr :5101
 ```bash
 taskkill /F /PID <NUMERO_DO_PID>
 ```
-Exemplo de como as portas devem estar para funcionar 
+- Exemplo de como as portas devem estar para funcionar 
 ```bash
 PS C:\Windows\system32> netstat -ano | findstr :4001
   TCP    0.0.0.0:4001           0.0.0.0:0              LISTENING       9828
