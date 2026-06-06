@@ -5,7 +5,7 @@ Exemplo de criação de ApiGateway BFF com Redis como cache em C# ASP.NET Core 1
 |-----------|-----------|
 | **ApiGateway** | É um componente que funciona como um ponto de entrada único entre clientes externos e microsserviços servidores de back-end |
 | **BFF** | Arquitetura que cria um servidor back-end exclusivo para atender a uma interface específica. |
-| **Ocelot** | ponto de entrada único para o seu sistema, interceptando requisições e roteando-as para os microsserviços adequados servindo como proxy reverso|
+| **Ocelot** | Ponto de entrada único para o seu sistema, interceptando requisições e roteando-as para os microsserviços adequados servindo como proxy reverso|
 | **Redis** | Banco de dados em memória (RAM) de altíssima velocidade. |
 
 #### 📁 Requisitos do Projeto
