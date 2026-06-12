@@ -1,7 +1,7 @@
 ## 🌐 ApiGateway10-Redis-docker
 Exemplo de criação de ApiGateway BFF com Redis como cache em C# ASP.NET Core 10.
 
-#### 📋 O que voçê vai ver nesse Projeto
+#### 📋 O que você vai encontrar neste projeto
 
 | Tecnologia | Descrição |
 |-----------|-----------|
